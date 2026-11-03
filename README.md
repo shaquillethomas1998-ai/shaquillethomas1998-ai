@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I'm Shaquille Thomas
 
-<!--
-**shaquillethomas1998-ai/shaquillethomas1998-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst and Data Analytics & AI student based in Ottawa, Canada.
 
-Here are some ideas to get you started:
+I prepare data, build dashboards and develop practical applications to answer business questions. I'm seeking data analytics opportunities and freelance projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Skills
+
+SQL · Python · R · Excel · Power BI · Tableau  
+Azure Data Factory · Azure Machine Learning · Flask · SQLite
+
+## Portfolio Projects
+
+- **Northstar Financial Dashboard:** Power BI dashboard exploring income, expenses, surplus and year-over-year performance.
+- **E-commerce ETL Pipeline:** Python and R workflows for cleaning data, calculating weekly KPIs and exporting reporting datasets.
+- **Customer Churn Prediction:** Logistic regression pipeline built and evaluated in Azure Machine Learning Designer.
+- **Cloud ZIP Extraction Pipeline:** Azure Data Factory workflow for extracting archived files into Azure Blob Storage.
+- **Video Game Sales Market Analysis:** Excel and Tableau analysis of sales across years, regions, platforms and genres.
+- **Automotive Service Quote Management Website:** Flask and SQLite application for managing service quotes.
+
+Project code and documentation are being organized for publication here.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/shaquille-thomas-20927143b/)
