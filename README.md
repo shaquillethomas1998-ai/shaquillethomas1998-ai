@@ -11,14 +11,12 @@ Azure Data Factory · Azure Machine Learning · Flask · SQLite
 
 ## Portfolio Projects
 
-- **Northstar Financial Dashboard:** Power BI dashboard exploring income, expenses, surplus and year-over-year performance.
-- **E-commerce ETL Pipeline:** Python and R workflows for cleaning data, calculating weekly KPIs and exporting reporting datasets.
-- **Customer Churn Prediction:** Logistic regression pipeline built and evaluated in Azure Machine Learning Designer.
-- **Cloud ZIP Extraction Pipeline:** Azure Data Factory workflow for extracting archived files into Azure Blob Storage.
-- **Video Game Sales Market Analysis:** Excel and Tableau analysis of sales across years, regions, platforms and genres.
-- **Automotive Service Quote Management Website:** Flask and SQLite application for managing service quotes.
-
-Project code and documentation are being organized for publication here.
+- [**Automotive Service Operations SQL Analysis**](https://github.com/shaquillethomas1998-ai/Automotive-Service-Operations-SQL-Analysis) — End-to-end SQL Server, Python, and Power BI project analyzing revenue, operational delays, inventory risk, and technician capacity.
+- [**Northstar Financial Dashboard**](https://github.com/shaquillethomas1998-ai/Northstar-Financial-Dashboard) — Power BI dashboard exploring income, expenses, surplus, and year-over-year financial performance.
+- [**E-commerce ETL Pipeline**](https://github.com/shaquillethomas1998-ai/ecommerce-etl-pipeline) — Python and R workflows for cleaning data, calculating weekly KPIs, and exporting reporting datasets.
+- [**Customer Churn Prediction**](https://github.com/shaquillethomas1998-ai/Customer-Churn-Prediction-Azure) — Logistic regression pipeline built and evaluated in Azure Machine Learning.
+- [**Cloud ZIP Extraction Pipeline**](https://github.com/shaquillethomas1998-ai/Azure-Zip-Extraction-Pipeline) — Azure Data Factory workflow for extracting archived files into Azure Blob Storage.
+- [**Automotive Service Quote Management Website**](https://github.com/shaquillethomas1998-ai/Automotive-Service-Quote-Management) — Flask and SQLite application for managing automotive service quotes.
 
 ## Connect
 
