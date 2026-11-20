@@ -2,21 +2,60 @@
 
 Data Analyst and Data Analytics & AI student based in Ottawa, Canada.
 
-I prepare data, build dashboards and develop practical applications to answer business questions. I'm seeking data analytics opportunities and freelance projects.
+I build data pipelines, validate datasets, and create dashboards that answer business questions. My projects cover cloud automation, SQL analysis, financial reporting, machine learning, and practical applications.
+
+I'm open to data analytics, business intelligence, data quality, and data engineering opportunities across industries, along with freelance projects.
 
 ## Tools & Skills
 
-SQL · Python · R · Excel · Power BI · Tableau  
-Azure Data Factory · Azure Machine Learning · Flask · SQLite
+SQL Server · T-SQL · Python · R · Excel  
+Power BI · DAX · Power Query · Tableau  
+Azure Data Factory · Azure SQL Database · Azure Blob Storage · Azure Machine Learning  
+REST APIs · GitHub · Flask · SQLite
+
+Data cleaning · Relational modeling · Data validation · Workflow automation · Reporting
 
 ## Portfolio Projects
 
-- [**Automotive Service Operations SQL Analysis**](https://github.com/shaquillethomas1998-ai/Automotive-Service-Operations-SQL-Analysis) — End-to-end SQL Server, Python, and Power BI project analyzing revenue, operational delays, inventory risk, and technician capacity.
-- [**Northstar Financial Dashboard**](https://github.com/shaquillethomas1998-ai/Northstar-Financial-Dashboard) — Power BI dashboard exploring income, expenses, surplus, and year-over-year financial performance.
-- [**E-commerce ETL Pipeline**](https://github.com/shaquillethomas1998-ai/ecommerce-etl-pipeline) — Python and R workflows for cleaning data, calculating weekly KPIs, and exporting reporting datasets.
-- [**Customer Churn Prediction**](https://github.com/shaquillethomas1998-ai/Customer-Churn-Prediction-Azure) — Logistic regression pipeline built and evaluated in Azure Machine Learning.
-- [**Cloud ZIP Extraction Pipeline**](https://github.com/shaquillethomas1998-ai/Azure-Zip-Extraction-Pipeline) — Azure Data Factory workflow for extracting archived files into Azure Blob Storage.
-- [**Automotive Service Quote Management Website**](https://github.com/shaquillethomas1998-ai/Automotive-Service-Quote-Management) — Flask and SQLite application for managing automotive service quotes.
+### [Bank of Canada USD/CAD Exchange Rate Pipeline](https://github.com/shaquillethomas1998-ai/Bank-of-Canada-USDCAD-Pipeline)
+**Azure Data Factory · Azure SQL Database · T-SQL · REST API · Power BI**
+
+Built a cloud pipeline that retrieves USD/CAD exchange rates from the Bank of Canada Valet API and loads them into Azure SQL. Validated a one-year backfill of 248 observations, tested duplicate-safe reloads and invalid-rate rejection, and created a Power BI report. Configured a daily trigger and verified a manual run with freshness checks.
+
+### [Canadian Vehicle Reimbursement and Fuel Cost Intelligence](https://github.com/shaquillethomas1998-ai/Canadian-Vehicle-Reimbursement-Fuel-Cost-Intelligence)
+**Power BI · Power Query · DAX**
+
+Prepared 613 vehicle records and 7,614 monthly fuel-price observations for a four-page Power BI report. Built a scenario calculator to explore estimated fuel costs by vehicle, location, and annual distance, alongside the CRA provincial automobile allowance benchmark.
+
+### Automotive Service Operations SQL Analysis
+**SQL Server · T-SQL · Python · Power BI**
+
+Built a 12-table relational database and automated 23 data quality checks using Python and SQL. Analyzed repair turnaround, parts shortages, and technician utilization, with a Power BI dashboard covering 1,476 completed repair orders in the project dataset.
+
+### Northstar Financial Dashboard
+**Power BI · Power Query · DAX**
+
+Built a financial dashboard using a fictional business dataset to analyze income, expenses, surplus, and year-over-year performance. Created six KPI measures and interactive visuals to explore monthly results and category contributions.
+
+### E-commerce ETL Pipeline
+**Python · R**
+
+Created workflows to clean e-commerce data, calculate weekly KPIs, and export datasets for reporting.
+
+### Customer Churn Prediction
+**Azure Machine Learning · Logistic Regression**
+
+Built and evaluated a logistic regression pipeline in Azure Machine Learning to predict customer churn.
+
+### Cloud ZIP Extraction Pipeline
+**Azure Data Factory · Azure Blob Storage**
+
+Built an Azure Data Factory workflow to extract archived files into Azure Blob Storage.
+
+### Automotive Service Quote Management Website
+**Python · Flask · SQLite**
+
+Developed an automotive quote management application with a customer quote form and an admin dashboard. Added search, status updates, pagination, and CSV export.
 
 ## Connect
 
