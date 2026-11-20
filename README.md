@@ -42,10 +42,10 @@ Built a financial dashboard using a fictional business dataset to analyze income
 
 Created workflows to clean e-commerce data, calculate weekly KPIs, and export datasets for reporting.
 
-### [Customer Churn Prediction](https://github.com/shaquillethomas1998-ai/Customer-Churn-Prediction-Azure)
+### Customer Churn Prediction — Under Development
 **Azure Machine Learning · Logistic Regression**
 
-Built and evaluated a logistic regression pipeline in Azure Machine Learning to predict customer churn.
+Expanding an existing coursework baseline with stronger data validation, model comparisons, threshold evaluation, and reproducible documentation. The repository is private during development.
 
 ### [Cloud ZIP Extraction Pipeline](https://github.com/shaquillethomas1998-ai/Azure-Zip-Extraction-Pipeline)
 **Azure Data Factory · Azure Blob Storage**
