@@ -37,10 +37,10 @@ Built a 12-table relational database and automated 23 data quality checks using 
 
 Built a financial dashboard using a fictional business dataset to analyze income, expenses, surplus, and year-over-year performance. Created six KPI measures and interactive visuals to explore monthly results and category contributions.
 
-### [E-commerce ETL Pipeline](https://github.com/shaquillethomas1998-ai/ecommerce-etl-pipeline)
+### E-commerce ETL Pipeline
 **Python · R**
 
-Created workflows to clean e-commerce data, calculate weekly KPIs, and export datasets for reporting.
+Created workflows to clean e-commerce data, calculate weekly KPIs, and export datasets for reporting. The repository is currently private.
 
 ### Customer Churn Prediction — Under Development
 **Azure Machine Learning · Logistic Regression**
