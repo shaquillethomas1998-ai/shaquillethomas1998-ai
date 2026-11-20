@@ -37,15 +37,6 @@ Built a 12-table relational database and automated 23 data quality checks using 
 
 Built a financial dashboard using a fictional business dataset to analyze income, expenses, surplus, and year-over-year performance. Created six KPI measures and interactive visuals to explore monthly results and category contributions.
 
-### E-commerce ETL Pipeline
-**Python · R**
-
-Created workflows to clean e-commerce data, calculate weekly KPIs, and export datasets for reporting. The repository is currently private.
-
-### Customer Churn Prediction — Under Development
-**Azure Machine Learning · Logistic Regression**
-
-Expanding an existing coursework baseline with stronger data validation, model comparisons, threshold evaluation, and reproducible documentation. The repository is private during development.
 
 ### [Cloud ZIP Extraction Pipeline](https://github.com/shaquillethomas1998-ai/Azure-Zip-Extraction-Pipeline)
 **Azure Data Factory · Azure Blob Storage**
@@ -56,6 +47,17 @@ Built an Azure Data Factory workflow to extract archived files into Azure Blob S
 **Python · Flask · SQLite**
 
 Developed an automotive quote management application with a customer quote form and an admin dashboard. Added search, status updates, pagination, and CSV export.
+
+### E-commerce ETL Pipeline
+**Python · R**
+
+Created workflows to clean e-commerce data, calculate weekly KPIs, and export datasets for reporting. The repository is currently private.
+
+### Customer Churn Prediction — Under Development
+**Azure Machine Learning · Logistic Regression**
+
+Expanding an existing coursework baseline with stronger data validation, model comparisons, threshold evaluation, and reproducible documentation. The repository is private during development.
+
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/shaquille-thomas-20927143b/)
