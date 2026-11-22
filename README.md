@@ -48,6 +48,11 @@ Built an Azure Data Factory workflow to extract archived files into Azure Blob S
 
 Developed an automotive quote management application with a customer quote form and an admin dashboard. Added search, status updates, pagination, and CSV export.
 
+### [Video Game Sales Analysis](https://github.com/shaquillethomas1998-ai/Video-Game-Sales-Analysis)
+**Excel · Tableau · Data Cleaning · PivotTables**
+
+Prepared 542 video game records after excluding four with missing release years. Built Excel PivotTables and an interactive Tableau dashboard to compare recorded sales across genres, platforms, regions, and release years. Documented the complete workflow, findings, and dataset limitations.
+
 ### E-commerce ETL Pipeline
 **Python · R**
 
