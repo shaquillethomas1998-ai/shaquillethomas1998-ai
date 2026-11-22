@@ -17,7 +17,7 @@ Data cleaning · Relational modeling · Data validation · Workflow automation �
 
 ## Portfolio Projects
 
-### [Bank of Canada USD/CAD Exchange Rate Pipeline](https://github.com/shaquillethomas1998-ai/Bank-of-Canada-USDCAD-Pinpeline)
+### [Bank of Canada USD/CAD Exchange Rate Pipeline](https://github.com/shaquillethomas1998-ai/Bank-of-Canada-USDCAD-Pipeline)
 **Azure Data Factory · Azure SQL Database · T-SQL · REST API · Power BI**
 
 Built a cloud pipeline that retrieves USD/CAD exchange rates from the Bank of Canada Valet API and loads them into Azure SQL. Validated a one-year backfill of 248 observations, tested duplicate-safe reloads and invalid-rate rejection, and created a Power BI report. Configured a daily trigger and verified a manual run with freshness checks.
